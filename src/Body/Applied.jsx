@@ -34,10 +34,12 @@ const Applied = () => {
             setDisplayJobs(jobsApplied)
         }
 
-    }, []);
+    }, [jobs]);
 
     // const {logo, job_title,} = appliedJob;
-
+    if (!jobs) {
+        return null
+    }
     return (
         <div>
 
