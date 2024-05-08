@@ -1,0 +1,29 @@
+
+     [
+      {
+        "id" : "1",
+        "job_name": "Account & Finance",
+        "available": "120 Jobs Available",
+        "image_url": "../src/assets/icons/accounts2024.png"
+      },
+      {
+        "id" : "2",
+        "job_name": "Creative Design",
+        "available": "200 Jobs Available",
+        "image_url": "../src/assets/icons/creative.png"
+      },
+      {
+        "id" : "3",
+        "job_name": "Marketing Specialist",
+        "available": "300 Jobs Available",
+        "image_url": "../src/assets/icons/marketing.png"
+      },
+      {
+        "id" : "4",
+        "job_name": "Engineering Job",
+        "available": "224 Jobs Available",
+        "image_url": "../src/assets/icons/chip.png"
+      }
+    ]
+  
+  
